@@ -1,4 +1,4 @@
-// A $( document ).ready() block.
+
 $(document).ready(function () {
     'use strict'
     // =================================================================== Metires_ Bg On Hovar
