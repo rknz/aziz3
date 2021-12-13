@@ -11,5 +11,8 @@ $(document).ready(function () {
     });
     // =================================================================== Metires_ Bg On Hovar
     AOS.init();
+    
+    // =================================================================== Metires_ Bg On Hovar
+     $('.one').css("background-image", "url(bg-b.png)");
 
 });
